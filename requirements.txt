@@ -1,7 +1,7 @@
 streamlit
-  pandas
-numpy
-  matplotlib
-
-  plotly
+ollama
 chromadb
+pandas
+pypdf
+numpy
+sentence-transformers
